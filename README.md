@@ -26,7 +26,7 @@ The same way that making HTML for email can be tedious, having to tweak CSS rule
 
 To achieve this, this pipeline leverages a fork from the fantastic lib `inline-css` by (and, in the process, `gulp-inline-css`; same author). [Here's the pull request, if you wish to weigh in](https://github.com/jonkemp/inline-css/pull/40). While this lib neatly converts class related css rules into style attributes, I tweak it up to support any custom rule, including _exotic_ ones (_e.g._ `full-width`).
 
-***Interesting side-effect***: VML style attributes (for, say, call-to-actions) can now be set in 
+Interesting side-effect: VML style attributes (for, say, call-to-actions) can now be set, so you won't have to worry about having discrepancies between templates and style rules when modifying your call-to-actions. 
 
 ### Can I change these definitions?
 
