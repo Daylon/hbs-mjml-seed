@@ -3,3 +3,4 @@ node_modules
 __templates/variants
 dist
 styles
+*.log
