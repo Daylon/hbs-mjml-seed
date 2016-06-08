@@ -1,0 +1,33 @@
+mj-text, mj-list, mj-button, mj-table, .is-heading{
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+  color: #333;
+}
+
+.theme-forest{
+  background-color: #2FDFAA;
+}
+
+.theme-tomato{
+  background-color: tomato;
+}
+
+mj-section{
+  full-width: "full-width";
+  padding: 0;
+}
+
+mj-column{
+  padding-left: 0;
+  padding-right: 0;
+  background-color: #f2f2f2;
+}
+
+mj-text{
+  padding: 0;
+}
+
+.is-empty{
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+}

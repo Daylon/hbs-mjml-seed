@@ -1,0 +1,24 @@
+{
+  "rules": {
+    "block-no-empty": null,
+    "color-no-invalid-hex": true,
+    "declaration-colon-space-after": "always",
+    "indentation": [
+      2,
+      {
+        "except": ["value"],
+        "indentInsideParens": ["once"]
+      }
+    ],
+    "max-empty-lines": 2,
+    "unit-whitelist": [
+      "em"
+      , "rem"
+      , "%"
+      , "px"
+      , "s"
+      , "vw"
+      , "vh"
+    ]
+  }
+}
