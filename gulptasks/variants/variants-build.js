@@ -15,7 +15,9 @@ let buildVariant = function(){
   return GULP.src( `${PATHS.dir.variants.variants}**/*${PATHS.file.variant}` )
   .pipe( MJML( MJML_ENGINE ) )
   .pipe( HTML_CLEAN() )
-  .pipe( HTML_MIN() )
+  .pipe( HTML_MIN({
+    maxLineLength: 960
+  }) )
   .pipe( RENAME({
     extname: PATHS.file.production
   }) )
