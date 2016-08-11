@@ -1,4 +1,4 @@
-# gulp-mjml-hbs-pipeline
+# hbs-mjml-seed
 Gulp pipeline example dedicated to build HTML emails.
 
 ## Disclaimer
@@ -8,7 +8,7 @@ This was intended to provide a faster to build a complete set of emails with cus
 ## Usage
 
 ```sh
-$ git clone https://github.com/Daylon/gulp-mjml-hbs-pipeline.git
+$ git clone https://github.com/Daylon/hbs-mjml-seed.git
 $ cd hbs-mjml-seed
 $ gulp
 ```
