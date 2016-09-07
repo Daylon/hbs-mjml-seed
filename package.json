@@ -27,7 +27,7 @@
     "gulp-sass": "^2.3.1",
     "gulp-sequence": "^0.4.5",
     "gulp-smoosher": "0.0.9",
-    "gulp-stylelint": "^2.0.2",
+    "gulp-stylelint": "^3.2.0",
     "gulp-util": "^3.0.7",
     "mjml": "^2.2.0",
     "require-dir": "^0.3.0"
