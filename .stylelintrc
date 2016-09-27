@@ -7,7 +7,7 @@
       2,
       {
         "except": ["value"],
-        "indentInsideParens": ["once"]
+        "indentInsideParens": ["once-at-root-twice-in-block"]
       }
     ],
     "max-empty-lines": 2,
