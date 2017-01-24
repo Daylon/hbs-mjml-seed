@@ -24,7 +24,7 @@
     "gulp-mjml": "^2.0.0",
     "gulp-purifycss": "^0.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.1",
+    "gulp-sass": "^3.1.0",
     "gulp-sequence": "^0.4.5",
     "gulp-smoosher": "0.0.9",
     "gulp-stylelint": "^3.2.0",
