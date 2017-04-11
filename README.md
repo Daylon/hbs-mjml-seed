@@ -1,4 +1,6 @@
 # hbs-mjml-seed
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Daylon/hbs-mjml-seed.svg)](https://greenkeeper.io/)
 Gulp pipeline example dedicated to build HTML emails.
 
 ## Disclaimer
