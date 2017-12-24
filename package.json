@@ -18,7 +18,7 @@
     "gulp-dest": "^0.2.3",
     "gulp-group-css-media-queries": "^1.1.0",
     "gulp-htmlclean": "^2.7.6",
-    "gulp-htmlmin": "^3.0.0",
+    "gulp-htmlmin": "^4.0.0",
     "gulp-inline-css": "daylon/gulp-inline-css",
     "gulp-less": "^3.1.0",
     "gulp-mjml": "^2.0.0",
