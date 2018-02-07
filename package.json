@@ -30,6 +30,6 @@
     "gulp-stylelint": "^5.0.0",
     "gulp-util": "^3.0.7",
     "mjml": "^3.2.1",
-    "require-dir": "^0.3.0"
+    "require-dir": "^1.0.0"
   }
 }
