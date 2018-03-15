@@ -29,7 +29,7 @@
     "gulp-smoosher": "0.0.9",
     "gulp-stylelint": "^5.0.0",
     "gulp-util": "^3.0.7",
-    "mjml": "^3.2.1",
+    "mjml": "^4.0.2",
     "require-dir": "^0.3.0"
   }
 }
