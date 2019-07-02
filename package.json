@@ -21,7 +21,7 @@
     "gulp-htmlmin": "^5.0.0",
     "gulp-inline-css": "daylon/gulp-inline-css",
     "gulp-less": "^4.0.0",
-    "gulp-mjml": "^3.0.0",
+    "gulp-mjml": "^4.0.2",
     "gulp-purifycss": "^0.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.0",
