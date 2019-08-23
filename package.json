@@ -9,7 +9,7 @@
   "author": "daylon",
   "license": "ISC",
   "devDependencies": {
-    "del": "^3.0.0",
+    "del": "^5.1.0",
     "event-stream": "^4.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
