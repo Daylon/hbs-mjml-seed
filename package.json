@@ -14,7 +14,7 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-compile-handlebars": "^0.6.1",
-    "gulp-csso": "^3.0.0",
+    "gulp-csso": "^4.0.1",
     "gulp-dest": "^0.2.3",
     "gulp-group-css-media-queries": "^1.1.0",
     "gulp-htmlclean": "^2.7.6",
